@@ -1,3 +1,4 @@
 # First-repo
 <br>
-some basic codes
+Some basic codes by Devanshu Chakravarty
+ 
